@@ -19,19 +19,6 @@ body {
   max-width: 400px;
 }
 
-input,
-button {
-  margin: 10px 0;
-  padding: 10px;
-  border-radius: 5px;
-  border: 1px solid #ddd;
-  width: calc(100% - 22px);
-}
-
-button {
-  cursor: pointer;
-}
-
 .with-kids {
   color: blue;
   font-weight: bold;
